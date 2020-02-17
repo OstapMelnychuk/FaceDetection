@@ -29,7 +29,7 @@
     <center>
         <BorderPane fx:id="bpWebCamPaneHolder" prefHeight="200.0" prefWidth="200.0">
             <center>
-                <ImageView fx:id="imgWebCamCapturedImage" fitHeight="391.0" fitWidth="759.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER" />
+                <ImageView fx:id="imgWebCamCapturedImage" fitHeight="489.0" fitWidth="894.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER" />
             </center>
         </BorderPane>
     </center>
